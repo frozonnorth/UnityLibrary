@@ -65,9 +65,9 @@ Send your GitHub id to one of the below ways:
 
 Our communities:
 
+- [See](https://discordapp.com/channels/337579253866692608/337579253866692608) | [Join](https://discord.gg/cXT97hU) our Discord Channel (Main)<div><a href="https://discord.gg/cXT97hU"> <img src="https://img.shields.io/discord/337579253866692608.svg"></a></div>
 - [See](https://unitylibrary.slack.com/) | [Join](https://join.slack.com/t/unitylibrary/shared_invite/MjE1MDA2NzExNDEwLTE1MDA0OTE5NzktOGJmYTI0ZDlkNA) our Slack Channel
 - [See](https://gitter.im/UnityCommunity/Lobby) | [Join](https://gitter.im/UnityCommunity/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) our Gitter Channel
-- [See](https://discordapp.com/channels/337579253866692608/337579253866692608) | [Join](https://discord.gg/cXT97hU) our Discord Channel
 - [See](https://trello.com/b/1sOcvQzd) | [Join](https://trello.com/invite/unitycommunity/239a9f3cdaf3c54cf7efc2540c304279) our Trello Development Board
 
 ## Improvements/Ideas/Feedback
@@ -81,7 +81,8 @@ Feel free to [:postbox: Post your ideas/comments/improvements/recommendations](h
 - [Lootheo (Manuel Otheo)](https://github.com/Lootheo) (Member)
 - [igorrafael (Igor Rafael de Sousa)](https://github.com/igorrafael) (Member)
 - [nrlnd](https://github.com/nrlnd) (Member)
-- [Sacristan (Ģirts Ķesteris)](https://github.com/nrlnd) (Member)
+- [Sacristan (Ģirts Ķesteris)](https://github.com/Sacristan) (Member)
+- [Agarcialeon (Álvaro García León)](https://github.com/agarcialeon) (Member)
 - [:sparkles: Join the team](#join-the-community)
 
 [:mag: Check out Unity Community People](https://github.com/orgs/UnityCommunity/people)
